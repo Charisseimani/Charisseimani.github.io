@@ -58,13 +58,15 @@ table {
 	#banner {
     		min-height: 700px;
 	}
+	#banner h2 {
+		margin-top: -20%;
+	}
 }
 
 #banner h2{
     font-family: 'Indie Flower', cursive;
     font-size: 75px;
     color: pink;
-	margin-top: -20%;
 }
 #banner p{
     font-family: 'Pacifico', cursive;
