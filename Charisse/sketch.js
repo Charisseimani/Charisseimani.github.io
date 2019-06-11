@@ -58,8 +58,10 @@ function draw() {
 
   fill(210,150,50)
   circle(x*s,y,50*s)
-
-  
+	  
+  if (touches.length == 0)   {
+    controls for main character
+}
   if (keyIsDown(LEFT_ARROW)) {
     x = x - 10
   }
